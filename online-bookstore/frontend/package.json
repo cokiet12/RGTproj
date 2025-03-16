@@ -1,0 +1,26 @@
+{
+  "name": "online-bookstore",
+  "version": "1.0.0",
+  "private": true,
+  "homepage": "/",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "axios": "^1.8.3",
+    "next": "^15.2.2",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "22.13.10",
+    "@types/react": "19.0.10",
+    "@types/react-dom": "^19.0.4",
+    "eslint": "^7.0.0",
+    "eslint-config-next": "latest",
+    "typescript": "^4.0.0"
+  }
+}
